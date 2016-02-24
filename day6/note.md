@@ -16,7 +16,7 @@
 ```
 int * ptrArr1[10];
 double * ptrArr2[20];
-char * ptrArr3[2] = {"John", "Jane"}; // 문자열을 저장하는 배열
+char * ptrArr3[2] = {"John", "Jane"};
 ```
 
 문자열을 저장하는 포인터 배열
